@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title">
+  <title id="title">OrangeSky Dev</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="632" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ec4a2b"/>
+      <stop offset="0.6" stop-color="#ff7a2e"/>
+      <stop offset="1" stop-color="#ffa851"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="342" x2="0" y2="632" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff8ee"/>
+      <stop offset="1" stop-color="#ffe6c6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="632" fill="url(#sky)"/>
+  <path d="M222 632A290 290 0 0 1 802 632Z" fill="url(#sun)"/>
+  <rect y="632" width="1024" height="392" fill="#231a2c"/>
+  <rect x="280" y="684.2" width="232" height="27.55" rx="13.78" fill="#ffe9cc"/><rect x="549.12" y="684.2" width="83.52" height="27.55" rx="13.78" fill="#ffe9cc"/><rect x="669.76" y="684.2" width="74.24" height="27.55" rx="13.78" fill="#ffe9cc"/>
+    <rect x="349.6" y="748" width="90.94" height="27.55" rx="13.78" fill="#ffad63"/><rect x="473.02" y="748" width="201.38" height="27.55" rx="13.78" fill="#ffad63"/>
+    <rect x="416.3" y="811.8" width="114.84" height="27.55" rx="13.78" fill="#f0652d"/><rect x="557.94" y="811.8" width="49.76" height="27.55" rx="13.78" fill="#f0652d"/>
+</svg>

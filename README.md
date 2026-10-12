@@ -8,8 +8,15 @@ This repository maintains the public GitHub profile for
 | File | Purpose |
 | --- | --- |
 | [profile/README.md](profile/README.md) | English profile displayed on the organization overview |
-| [profile/assets/orange-sky.svg](profile/assets/orange-sky.svg) | Light-mode SVG banner with accessible text |
-| [profile/assets/orange-sky-dark.svg](profile/assets/orange-sky-dark.svg) | Dark-mode SVG banner with accessible text |
+| [profile/assets/orange-sky.svg](profile/assets/orange-sky.svg) | Light-mode (dawn) SVG banner with accessible title and description |
+| [profile/assets/orange-sky-dark.svg](profile/assets/orange-sky-dark.svg) | Dark-mode (dusk) SVG banner with accessible title and description |
+| [brand/orangesky-avatar.jpg](brand/orangesky-avatar.jpg) | 1024 × 1024 avatar for the organization and its teams |
+| [brand/orangesky-avatar.svg](brand/orangesky-avatar.svg) | Vector source of the avatar |
+
+Banner text is converted to outlines (Sora and JetBrains Mono, both under the
+SIL Open Font License) so it renders the same on every platform. To change the
+wording, set the new text in those fonts and outline it again in both banners;
+the path data is not meant to be edited by hand.
 
 GitHub displays `profile/README.md` from the default branch of this public
 `.github` repository on the organization overview. The root README is for
