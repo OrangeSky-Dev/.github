@@ -1,41 +1,61 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OrangeSky-Dev/.github/main/profile/assets/orange-sky.svg" alt="OrangeSky Dev — Open-source tools, thoughtfully built." width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OrangeSky-Dev/.github/main/profile/assets/orange-sky-dark.svg">
+    <img src="https://raw.githubusercontent.com/OrangeSky-Dev/.github/main/profile/assets/orange-sky.svg" alt="OrangeSky Dev — Open-source tools, thoughtfully built." width="100%">
+  </picture>
 </p>
 
 <p align="center">
-  English · <a href="https://github.com/OrangeSky-Dev/.github/blob/main/profile/README.zh-CN.md">简体中文</a>
+  <a href="https://github.com/GeorgeXie2333/usque-app/releases">Download Usque</a>
+  ·
+  <a href="https://github.com/GeorgeXie2333/usque-app/blob/main/docs/README.md">Documentation</a>
+  ·
+  <a href="https://github.com/GeorgeXie2333/usque-app/blob/main/CONTRIBUTING.md">Contribute</a>
 </p>
 
 # OrangeSky Dev
 
-We build open-source tools with a focus on clear interfaces, practical features,
-and software people can understand and contribute to.
+We build practical open-source tools with clear interfaces and readable code.
+Our focus is software that is useful day to day and easy to explore, understand,
+and improve together.
 
-## Meet Usque
+## Featured project · Usque
 
 [**Usque**](https://github.com/GeorgeXie2333/usque-app) is an unofficial client
-compatible with Cloudflare® WARP® services for **Windows, Android, and Android TV**.
-A Flutter interface brings together a Rust MASQUE engine, system VPN, SOCKS5,
-and HTTP proxy modes.
+compatible with Cloudflare® WARP® services. It brings system VPN and local proxy
+connections into one Flutter interface, powered by a Rust MASQUE engine.
 
-[Download releases](https://github.com/GeorgeXie2333/usque-app/releases) ·
-[Read the docs](https://github.com/GeorgeXie2333/usque-app/blob/main/docs/README.md) ·
-[Explore the source](https://github.com/GeorgeXie2333/usque-app)
+| | At a glance |
+| --- | --- |
+| **Platforms** | Windows, Android, and Android TV |
+| **Connection options** | System VPN, SOCKS5, and HTTP proxy |
+| **Built with** | Flutter · Rust · MASQUE |
+
+**Get started:** [Download a release](https://github.com/GeorgeXie2333/usque-app/releases)
+and follow the [installation guide](https://github.com/GeorgeXie2333/usque-app/blob/main/docs/INSTALLATION.md).
+For setup details and development references, browse the
+[documentation](https://github.com/GeorgeXie2333/usque-app/blob/main/docs/README.md)
+or [explore the source](https://github.com/GeorgeXie2333/usque-app).
 
 Usque is an independent project and is not affiliated with, sponsored by,
 or endorsed by Cloudflare, Inc. Cloudflare and WARP are trademarks of Cloudflare, Inc.
 
 ## Build with us
 
-Bug reports, documentation improvements, translations, and code contributions
-are welcome. Start with the relevant project's contribution guide and existing
-issues before proposing a change.
+You can help by reporting a reproducible bug, clarifying a guide, or contributing
+code. Small improvements are welcome.
 
-- **Report a bug or suggest a feature:** use [Usque Issues](https://github.com/GeorgeXie2333/usque-app/issues).
-- **Contribute to Usque:** read the [contribution guide](https://github.com/GeorgeXie2333/usque-app/blob/main/CONTRIBUTING.md).
-- **Report a security concern:** follow the project's [security policy](https://github.com/GeorgeXie2333/usque-app/blob/main/SECURITY.md).
-- **Improve this page:** open an issue or pull request in [our profile repository](https://github.com/OrangeSky-Dev/.github).
+| Want to… | Start here |
+| --- | --- |
+| Report a bug or suggest a feature | Search [Usque Issues](https://github.com/GeorgeXie2333/usque-app/issues), then open an issue with the details. |
+| Improve the code or documentation | Read the [contribution guide](https://github.com/GeorgeXie2333/usque-app/blob/main/CONTRIBUTING.md) before opening a pull request. |
+| Report a vulnerability | Follow the project's [security policy](https://github.com/GeorgeXie2333/usque-app/blob/main/SECURITY.md) for private reporting. |
+| Improve this organization profile | Open a pull request in [this repository](https://github.com/OrangeSky-Dev/.github). |
 
 ---
 
-OrangeSky Dev · `orangesky.dev`
+<p align="center">
+  <strong>OrangeSky Dev</strong><br>
+  Open-source tools, thoughtfully built.<br>
+  <code>orangesky.dev</code>
+</p>
