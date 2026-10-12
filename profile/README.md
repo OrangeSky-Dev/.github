@@ -57,5 +57,5 @@ code. Small improvements are welcome.
 <p align="center">
   <strong>OrangeSky Dev</strong><br>
   Open-source tools, thoughtfully built.<br>
-  <code>orangesky.dev</code>
+  <a href="https://orangesky.dev">orangesky.dev</a>
 </p>

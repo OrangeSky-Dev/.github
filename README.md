@@ -38,8 +38,10 @@ Usque links currently point to `GeorgeXie2333/usque-app`, its current repository
 After a transfer to `OrangeSky-Dev/usque-app`, verify the new location and update
 all project links in the profile together.
 
-The profile displays the domain `orangesky.dev` as text. Add a website link or
-public contact email when the destination is ready to receive visitors or mail.
+The profile footer links to the website at <https://orangesky.dev>, published from
+[OrangeSky-Dev/OrangeSky-Dev.github.io](https://github.com/OrangeSky-Dev/OrangeSky-Dev.github.io).
+Keep the profile and website consistent when either changes. Add a public contact
+email when an address is ready to receive mail.
 
 Contribution and security links point to each project's own policies. This
 repository does not currently define organization-wide default community files.
