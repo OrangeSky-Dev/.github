@@ -29,10 +29,10 @@ Cloudflare 和 WARP 是 Cloudflare, Inc. 的商标。
 欢迎提交问题反馈、改进文档、完善翻译或贡献代码。
 开始前，请先阅读对应项目的贡献指南，并查看已有的 Issues。
 
-- **反馈问题或提出建议：**前往 [Usque Issues](https://github.com/GeorgeXie2333/usque-app/issues)。
-- **为 Usque 贡献代码：**阅读[贡献指南](https://github.com/GeorgeXie2333/usque-app/blob/main/CONTRIBUTING.md)。
-- **报告安全问题：**按照项目的[安全政策](https://github.com/GeorgeXie2333/usque-app/blob/main/SECURITY.md)操作。
-- **改进此页面：**在[组织主页仓库](https://github.com/OrangeSky-Dev/.github)提交 Issue 或 Pull Request。
+- **反馈问题或提出建议**：前往 [Usque Issues](https://github.com/GeorgeXie2333/usque-app/issues)。
+- **为 Usque 贡献代码**：阅读[贡献指南](https://github.com/GeorgeXie2333/usque-app/blob/main/CONTRIBUTING.md)。
+- **报告安全问题**：按照项目的[安全政策](https://github.com/GeorgeXie2333/usque-app/blob/main/SECURITY.md)操作。
+- **改进此页面**：在[组织主页仓库](https://github.com/OrangeSky-Dev/.github)提交 Issue 或 Pull Request。
 
 ---
 
